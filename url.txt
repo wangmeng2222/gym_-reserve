@@ -1,0 +1,12 @@
+https://g-kyoto.pref.kyoto.lg.jp/reserve_j/Core_i/init.asp?SBT=1&Target=_Top&LCD=
+index.html:39 開始
+index.html:34 https://g-kyoto.pref.kyoto.lg.jp/reserve_j/Core_i/index.asp?cmd=init
+index.html:49 バドミントンを選択
+index.html:34 https://g-kyoto.pref.kyoto.lg.jp/reserve_j/Core_i/i-62.asp?txt_sel_bunrui1_cd=100055&txt_sel_bunrui1_name=%83o%83h%83~%83%93%83g%83%93&Search=Mokuteki
+index.html:55 検索
+index.html:34 https://g-kyoto.pref.kyoto.lg.jp/reserve_j/Core_i/i-64.asp
+index.html:67 左京体育館を選択
+index.html:34 https://g-kyoto.pref.kyoto.lg.jp/reserve_j/Core_i/i-1-21.asp?group=26103&kaikan=100073
+index.html:74 2週間表示
+index.html:34 https://g-kyoto.pref.kyoto.lg.jp/reserve_j/Core_i/i-1-21.asp
+index.html:39 
