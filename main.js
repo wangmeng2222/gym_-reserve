@@ -9,7 +9,7 @@ var receiverEmailAddress = [
     'lshpeter960508@163.com'
   ];
 var senderEmailAddress = 'kyoto.gym.check@gmail.com';
-var senderEmailPassword = 'password is in local storage';
+var senderEmailPassword = 'password is in local storage;';
 
 var transporter = nodemailer.createTransport({
   host: 'smtp.gmail.com',
